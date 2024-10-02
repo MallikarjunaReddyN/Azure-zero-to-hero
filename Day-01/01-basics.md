@@ -8,6 +8,8 @@ It's like having a powerful computer somewhere out there on the web that you can
 
 ## What is Cloud Computing ?
 
+Cloud computing is the delivery of computing resources, like storage, databases, and servers, over the internet on demand. It allows users to access these resources without having to manage them directly, and to pay only for what they use.
+
 Cloud computing is a technology model that involves the delivery of computing services over the internet. Instead of owning and maintaining physical servers and infrastructure, users can access and use computing resources, applications, and storage provided by either third-party service providers (public cloud) or their own organization (private cloud) through the internet. These services are hosted in data centers located around the world.
 
 In essence, cloud computing can involve both third-party providers (public cloud) and an organization's internal resources (private cloud). The distinction lies in whether the computing resources are shared among multiple customers (public cloud) or dedicated to a single organization (private cloud). The flexibility of cloud computing allows organizations to choose the deployment model that best aligns with their needs and requirements.
